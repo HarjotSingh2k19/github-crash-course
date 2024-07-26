@@ -12,3 +12,7 @@ function newFn(){
 function isAbove18(){
     return age >= 18;
 }
+
+function newFeatureAdded(){
+    console.log('This is a new feat');
+}
