@@ -15,4 +15,5 @@ function isAbove18(){
 
 function newFeatureAdded(){
     console.log('This is a new feat');
+    console.log('This is a new feat A');
 }
