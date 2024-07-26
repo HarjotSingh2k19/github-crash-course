@@ -1,9 +1,11 @@
 const age = 24;
-const name = 'Harjot Singh';
+const name1 = 'Harjot Singh';
 const dob = '01/01/2000';
 
 function sayName(){
-    console.log('My name is: ' + name);
+    console.log('My name is: ' + name1);
 }
 
-sayName(name);
+function isAbove18(){
+    return age >= 18;
+}
