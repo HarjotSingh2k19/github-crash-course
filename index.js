@@ -25,5 +25,5 @@ function newFeatureAddedB(){
 
 function newFeatureAddedC(){
     console.log('This is a new feat');
-    console.log('This is a new feat B');
+    console.log('This is a new feat C');
 }
